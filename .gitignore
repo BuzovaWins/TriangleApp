@@ -1,0 +1,12 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TriangleSolution/.vs
+/TriangleSolution/packages/System.Configuration.ConfigurationManager.8.0.0
+/TriangleSolution/TestTriangle/bin/Debug/net8.0
+/TriangleSolution/TestTriangle/obj
+/TriangleSolution/Triangle/.vs
+/TriangleSolution/Triangle/bin/Debug
+/TriangleSolution/Triangle/obj
